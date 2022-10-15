@@ -6,7 +6,7 @@ Hello, there! We're [Assistants Center](https://assistantscenter.com)! 😎
 
 We are a company committed to developing OpenSource projects for communities and businesses. We already have numerous reviews and projects about our business.
 
-# Our expertise
+# Our experience
 
 - Creating websites
   - WordPress
