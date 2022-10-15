@@ -19,8 +19,6 @@ We are a company committed to developing OpenSource projects for communities and
 - OpenSource projects
   - [Discord-Dashboard NPM Module](https://www.npmjs.com/package/discord-dashboard)
   - [Discord-Simple-Economy NPM Module](https://www.npmjs.com/package/discord-simple-economy)
-  - [Discord Bots](https://assistants.ga/#what-can-we-do-for-you)
-  - [Fortnite Assistant](https://node.assistants.ga/)
 
 # Contact Us
 
