@@ -10,10 +10,12 @@ We are a company committed to developing OpenSource projects for communities and
 
 - Creating websites
   - WordPress
+  - React, Next.js
   - HTML, CSS, JS
 - Creating APIs
-  - Node.js Express
-  - Python Flask
+  - Fastify
+  - Express
+  - Flask
 - OpenSource projects
   - [Discord-Dashboard NPM Module](https://www.npmjs.com/package/discord-dashboard)
   - [Discord-Simple-Economy NPM Module](https://www.npmjs.com/package/discord-simple-economy)
