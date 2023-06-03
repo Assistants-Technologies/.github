@@ -1,6 +1,6 @@
-![Assistants Center](https://cdn.assistantscenter.com/kxkwe7xd)
+![Assistants' Center Hero Image](https://cdn.assistantscenter.com/kxkwe7xd)
 
-Hello, there! We're [Assistants Center](https://assistantscenter.com)! 😎
+Hello, there! We are [Assistants' Center](https://assistantscenter.com)! 😎
 
 # About Us
 
@@ -28,4 +28,4 @@ Discord Server: https://discord.gg/Nkc8MWxHRD
 
 Twitter: https://twitter.com/assistantsga
 
-© 2023 Assistants Center, all rights reserved. Made with ❤️ for you.
+© 2023 Assistants' Center, all rights reserved. Made with ❤️ for you.
