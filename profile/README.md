@@ -1,6 +1,6 @@
 ![Assistants' Center Hero Image](https://cdn.assistantscenter.com/kxkwe7xd)
 
-Hello, there! We are [Assistants' Center](https://assistantscenter.com)! 😎
+Hello, there! We are [Assistants Technologies](https://assistantscenter.com)! 😎
 
 # About Us
 
